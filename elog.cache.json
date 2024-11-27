@@ -1,0 +1,2055 @@
+{
+  "docs": [
+    {
+      "id": 196256753,
+      "doc_id": "sige3pgxkmfod3it",
+      "updated": 1732689897000,
+      "properties": {
+        "title": "NepCTF 2024 WP",
+        "urlname": "sige3pgxkmfod3it",
+        "date": "2024-11-27 13:14:13",
+        "updated": "2024-11-27 14:44:57",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/47252163/1724642424006-da5a0b9a-5f66-4855-90d0-8a210da7f594.png",
+        "description": "选手：AuraMISCNepMagic —— CheckIn简单签到，玩到通关即可，其中有一层需要把隐藏砖都撞出来，不然后面会卡死。Nemophilaimport base64  print(\"这里有一个藏宝室，镇守着一个宝箱怪，当你说出正确的口令时，你也就快获得了这个屋子里最至高无上的宝物。..."
+      },
+      "catalog": [
+        {
+          "title": "赛事",
+          "doc_id": "sige3pgxkmfod3it"
+        }
+      ],
+      "realName": "NepCTF 2024 WP",
+      "relativePath": "\\赛事\\NepCTF 2024 WP.md",
+      "docPath": "docs\\docs\\赛事"
+    },
+    {
+      "id": 196264742,
+      "doc_id": "bx7uqu9b6vwz3t5m",
+      "updated": 1732690314000,
+      "properties": {
+        "title": "Crypto",
+        "urlname": "bx7uqu9b6vwz3t5m",
+        "date": "2024-11-27 14:12:14",
+        "updated": "2024-11-27 14:51:54",
+        "cover": "https://cdn.nlark.com/yuque/__latex/08af29ee6816b9ff4842c3628c42146b.svg",
+        "description": "Crypto古典密码你害怕吃日本的海鲜吗, 哎，怕的是水污染哦。句子首字母是 nhpcrbdhxm   apdsswro ，最后几个刚好是 password 调换一下顺序，本来的password 依次对应 1~8。scuctf{21834576} signfrom Ctypto.Util.nu..."
+      },
+      "catalog": [
+        {
+          "title": "赛事",
+          "doc_id": "bx7uqu9b6vwz3t5m"
+        },
+        {
+          "title": "SCUCTF 2024 新生赛",
+          "doc_id": "bx7uqu9b6vwz3t5m"
+        }
+      ],
+      "realName": "Crypto",
+      "relativePath": "\\赛事\\SCUCTF 2024 新生赛\\Crypto.md",
+      "docPath": "docs\\docs\\赛事\\SCUCTF 2024 新生赛"
+    },
+    {
+      "id": 196256757,
+      "doc_id": "mfpm3aclfq1c290t",
+      "updated": 1732689566000,
+      "properties": {
+        "title": "BaseCTF Week 3 WP",
+        "urlname": "mfpm3aclfq1c290t",
+        "date": "2024-11-27 13:14:13",
+        "updated": "2024-11-27 14:39:26",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/47252163/1725090048669-798480e7-fdd6-41ed-b5fa-b250e6359955.png",
+        "description": "队伍：Aura&amp;JumpingMisc这是一个压缩包给了一个带密码的压缩包，可以在描述信息里面看到一串密文。QmFzZUNURj8/Pz8/P0ZUQ2VzYUI=Base64 解一下。BaseCTF??????FTCesaB这个应该是压缩包密码，? 是掩码，但是直接爆破 6 位要跑非常久。仔..."
+      },
+      "catalog": [
+        {
+          "title": "赛事",
+          "doc_id": "mfpm3aclfq1c290t"
+        },
+        {
+          "title": "BaseCTF 2024",
+          "doc_id": "mfpm3aclfq1c290t"
+        }
+      ],
+      "realName": "BaseCTF Week 3 WP",
+      "relativePath": "\\赛事\\BaseCTF 2024\\BaseCTF Week 3 WP.md",
+      "docPath": "docs\\docs\\赛事\\BaseCTF 2024"
+    },
+    {
+      "id": 196264669,
+      "doc_id": "txuqd1tbgkvrpgvw",
+      "updated": 1732688860000,
+      "properties": {
+        "title": "Web",
+        "urlname": "txuqd1tbgkvrpgvw",
+        "date": "2024-11-27 14:11:50",
+        "updated": "2024-11-27 14:27:40",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/47252163/1731839358533-a91d9925-8003-4a85-8fdd-382078abdf7b.png",
+        "description": "WebWeb入门指北翻到最后，解一下 base64。php_beginerphp highlight_file(__FILE__); $flag = file_get_contents(\"/flag\");  if(isset($_GET['what_is[php'])){     if(s..."
+      },
+      "catalog": [
+        {
+          "title": "赛事",
+          "doc_id": "txuqd1tbgkvrpgvw"
+        },
+        {
+          "title": "SCUCTF 2024 新生赛",
+          "doc_id": "txuqd1tbgkvrpgvw"
+        }
+      ],
+      "realName": "Web",
+      "relativePath": "\\赛事\\SCUCTF 2024 新生赛\\Web.md",
+      "docPath": "docs\\docs\\赛事\\SCUCTF 2024 新生赛"
+    },
+    {
+      "id": 196256759,
+      "doc_id": "bru94gpll6v4v7vp",
+      "updated": 1732689486000,
+      "properties": {
+        "title": "BaseCTF Week 1 WP",
+        "urlname": "bru94gpll6v4v7vp",
+        "date": "2024-11-27 13:14:13",
+        "updated": "2024-11-27 14:38:06",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/47252163/1723989477963-d524f07d-0945-4522-8bad-5fc0893acf64.png",
+        "description": "队伍：Aura&amp;JumpingMisc倒计时？海报一共十张海报，每张里面都藏了 flag 的一部分，放大仔细看能看清一点点，如果对图片进行一些处理会更清楚一些。BaseCTF{c0unt_d0wn_fro3_X_every_d@y_i5_re@11y_c0o1_@nd_h@rd_t0_do_1..."
+      },
+      "catalog": [
+        {
+          "title": "赛事",
+          "doc_id": "bru94gpll6v4v7vp"
+        },
+        {
+          "title": "BaseCTF 2024",
+          "doc_id": "bru94gpll6v4v7vp"
+        }
+      ],
+      "realName": "BaseCTF Week 1 WP",
+      "relativePath": "\\赛事\\BaseCTF 2024\\BaseCTF Week 1 WP.md",
+      "docPath": "docs\\docs\\赛事\\BaseCTF 2024"
+    },
+    {
+      "id": 196264705,
+      "doc_id": "mpstvkc9cs0e59f8",
+      "updated": 1732688552000,
+      "properties": {
+        "title": "BlockChain",
+        "urlname": "mpstvkc9cs0e59f8",
+        "date": "2024-11-27 14:12:03",
+        "updated": "2024-11-27 14:22:32",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/47252163/1732523599186-bd36535e-c061-4f7b-978b-558b64e5f6c0.png",
+        "description": "Blockchainez_Sign里面有一堆 emoji，有个在线网站可以解。http://www.atoolbox.net/Tool.php?Id=937Hello BlockChain！上一题的文档给了 wp 了，那我就不写了，照着做即可。Hello BlockChain 2！和 SHCT..."
+      },
+      "catalog": [
+        {
+          "title": "赛事",
+          "doc_id": "mpstvkc9cs0e59f8"
+        },
+        {
+          "title": "SCUCTF 2024 新生赛",
+          "doc_id": "mpstvkc9cs0e59f8"
+        }
+      ],
+      "realName": "BlockChain",
+      "relativePath": "\\赛事\\SCUCTF 2024 新生赛\\BlockChain.md",
+      "docPath": "docs\\docs\\赛事\\SCUCTF 2024 新生赛"
+    },
+    {
+      "id": 196264724,
+      "doc_id": "sah0c78pqftx5gc4",
+      "updated": 1732688528000,
+      "properties": {
+        "title": "Pwn",
+        "urlname": "sah0c78pqftx5gc4",
+        "date": "2024-11-27 14:12:09",
+        "updated": "2024-11-27 14:22:08",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/47252163/1732520478576-b6bbb52e-c327-4969-ada1-ee426e1a9809.png",
+        "description": "PwnPwn 入门指北附件就是 wp，照着做就行，懒得写了。nc就行一堆指令都被删了，但是我们的 echo 还在，我们可以重定向把 flag 里面的内容搞出来。ret2text有两层，第一层是个 check，传入的内容需要等于 0xDEADBEAF。第二层是个栈溢出，可以找到后门函数，直接 r..."
+      },
+      "catalog": [
+        {
+          "title": "赛事",
+          "doc_id": "sah0c78pqftx5gc4"
+        },
+        {
+          "title": "SCUCTF 2024 新生赛",
+          "doc_id": "sah0c78pqftx5gc4"
+        }
+      ],
+      "realName": "Pwn",
+      "relativePath": "\\赛事\\SCUCTF 2024 新生赛\\Pwn.md",
+      "docPath": "docs\\docs\\赛事\\SCUCTF 2024 新生赛"
+    },
+    {
+      "id": 196264591,
+      "doc_id": "apu3vfpgvm8d5wfz",
+      "updated": 1732688313000,
+      "properties": {
+        "title": "Misc",
+        "urlname": "apu3vfpgvm8d5wfz",
+        "date": "2024-11-27 14:11:21",
+        "updated": "2024-11-27 14:18:33",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/47252163/1732516309248-5489ca61-de20-4184-9683-d1d967f7f3fb.png",
+        "description": "Misc关注公众号咋不算 CTF进入微信官网下载微信。登录微信。我有权保持沉默IDA 逆向一下，其实 popen 已经实现任意命令执行了，只是关闭了所有的输出，没有回显。这不就是无回显 RCE 吗？这里可以通过 sleep 进行盲注，对每一个字节的内容进行爆破，通过响应的时间不同来得到正确答案..."
+      },
+      "catalog": [
+        {
+          "title": "赛事",
+          "doc_id": "apu3vfpgvm8d5wfz"
+        },
+        {
+          "title": "SCUCTF 2024 新生赛",
+          "doc_id": "apu3vfpgvm8d5wfz"
+        }
+      ],
+      "realName": "Misc",
+      "relativePath": "\\赛事\\SCUCTF 2024 新生赛\\Misc.md",
+      "docPath": "docs\\docs\\赛事\\SCUCTF 2024 新生赛"
+    },
+    {
+      "id": 196264682,
+      "doc_id": "ad8l68ghd3ggfhqx",
+      "updated": 1732688486000,
+      "properties": {
+        "title": "Reverse",
+        "urlname": "ad8l68ghd3ggfhqx",
+        "date": "2024-11-27 14:11:55",
+        "updated": "2024-11-27 14:21:26",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/47252163/1732516928019-6fb07c32-7aca-4d00-9722-9423f2e407a1.png",
+        "description": "Reverseez_IDAIDA 打开就是 flag。BabyApkpackage com.example.apk1;  import android.os.Bundle; import android.view.View; import android.view.ViewGroup; imp..."
+      },
+      "catalog": [
+        {
+          "title": "赛事",
+          "doc_id": "ad8l68ghd3ggfhqx"
+        },
+        {
+          "title": "SCUCTF 2024 新生赛",
+          "doc_id": "ad8l68ghd3ggfhqx"
+        }
+      ],
+      "realName": "Reverse",
+      "relativePath": "\\赛事\\SCUCTF 2024 新生赛\\Reverse.md",
+      "docPath": "docs\\docs\\赛事\\SCUCTF 2024 新生赛"
+    },
+    {
+      "id": 196261090,
+      "doc_id": "dxx02ydos2ar6frg",
+      "updated": 1732686775000,
+      "properties": {
+        "title": "渗透",
+        "urlname": "dxx02ydos2ar6frg",
+        "date": "2024-11-27 13:52:22",
+        "updated": "2024-11-27 13:52:55",
+        "description": "记录渗透学习，里面有一些靶场练习，还有一些实战记录。"
+      },
+      "catalog": [
+        {
+          "title": "渗透",
+          "doc_id": "dxx02ydos2ar6frg"
+        }
+      ],
+      "realName": "渗透",
+      "relativePath": "\\渗透\\渗透.md",
+      "docPath": "docs\\docs\\渗透"
+    },
+    {
+      "id": 196260941,
+      "doc_id": "myachz7d72dluode",
+      "updated": 1732686687000,
+      "properties": {
+        "title": "记录一次QQ钓鱼网站渗透 2024.10.26",
+        "urlname": "myachz7d72dluode",
+        "date": "2024-11-27 13:51:27",
+        "updated": "2024-11-27 13:51:27",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/47252163/1729938385810-c8997c45-1bf7-4e59-90be-778967ff2b2e.png",
+        "description": "起因今天下午，收到了一封邮件。附件点开是一个网站。一眼盗号的，开始渗透。渗透在填写 QQ 账号和密码的界面抓包，得到一串 base64.其实就是将输入信息的 json 进行了两次 base64。有 XSS 漏洞，直接用 XSS 平台生一个 payload，然后两次 base64 替换回去。成功..."
+      },
+      "catalog": [
+        {
+          "title": "渗透",
+          "doc_id": "myachz7d72dluode"
+        }
+      ],
+      "realName": "记录一次QQ钓鱼网站渗透 2024.10.26",
+      "relativePath": "\\渗透\\记录一次QQ钓鱼网站渗透 2024.10.26.md",
+      "docPath": "docs\\docs\\渗透"
+    },
+    {
+      "id": 196260911,
+      "doc_id": "mfuebyis4cobaw4d",
+      "updated": 1732686677000,
+      "properties": {
+        "title": "THM DEBUG靶场 WP",
+        "urlname": "mfuebyis4cobaw4d",
+        "date": "2024-11-27 13:51:16",
+        "updated": "2024-11-27 13:51:17",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/47252163/1731301891292-0a418a22-5226-4659-882e-1e8cf08b6fc6.png",
+        "description": "fscan 扫一下，发现开放了 22 端口和 80 端口。浏览器访问 80 端口，发现什么都没有。dirsearch 扫一下，发现以下内容。访问 backup，发现泄露了源码。把 index.php.bak 下载下来，审计一下，发现存在反序列化漏洞。php  class FormSubmi..."
+      },
+      "catalog": [
+        {
+          "title": "渗透",
+          "doc_id": "mfuebyis4cobaw4d"
+        }
+      ],
+      "realName": "THM DEBUG靶场 WP",
+      "relativePath": "\\渗透\\THM DEBUG靶场 WP.md",
+      "docPath": "docs\\docs\\渗透"
+    },
+    {
+      "id": 196260479,
+      "doc_id": "tinkyhxnui00ygci",
+      "updated": 1732686551000,
+      "properties": {
+        "title": "赛事",
+        "urlname": "tinkyhxnui00ygci",
+        "date": "2024-11-27 13:48:40",
+        "updated": "2024-11-27 13:49:11",
+        "description": "记录一些比赛的 WP，里面有一些个人做题的习惯和技巧。"
+      },
+      "catalog": [
+        {
+          "title": "赛事",
+          "doc_id": "tinkyhxnui00ygci"
+        }
+      ],
+      "realName": "赛事",
+      "relativePath": "\\赛事\\赛事.md",
+      "docPath": "docs\\docs\\赛事"
+    },
+    {
+      "id": 196256760,
+      "doc_id": "ka3otfqewh266kpu",
+      "updated": 1732684457000,
+      "properties": {
+        "title": "数信杯 WriteUp",
+        "urlname": "ka3otfqewh266kpu",
+        "date": "2024-11-27 13:14:13",
+        "updated": "2024-11-27 13:14:17",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/47252163/1727600612446-4f7b7899-4cfe-49c3-9143-895e8c6fdd59.png",
+        "description": "OA 系统1.redis 加固root@cf8419e3b979:~# redis-cli   127.0.0.1:6379&gt; config get requirepass 1) \"requirepass\" 2) \"\" 127.0.0.1:6379&gt; config set requirepas..."
+      },
+      "catalog": [
+        {
+          "title": "赛事",
+          "doc_id": "ka3otfqewh266kpu"
+        }
+      ],
+      "realName": "数信杯 WriteUp",
+      "relativePath": "\\赛事\\数信杯 WriteUp.md",
+      "docPath": "docs\\docs\\赛事"
+    },
+    {
+      "id": 196256761,
+      "doc_id": "nvc6kuird93vbqz9",
+      "updated": 1732684457000,
+      "properties": {
+        "title": "SHCTF2024 Week1 WP",
+        "urlname": "nvc6kuird93vbqz9",
+        "date": "2024-11-27 13:14:13",
+        "updated": "2024-11-27 13:14:17",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/47252163/1728015602572-871aa45c-ed17-4858-9a9e-d706685b7e6e.png",
+        "description": "选手：Aura第一周难度还行，成功AK！MISC签到题关注公众号发送指定消息得到 flag。拜师之旅①拿到一张 png，010 看一下，发现文件头缺了前 8 位，手动补一下。补好以后发现 CRC 有问题，宽高爆破一下，修好以后可以在图片底部看到 flag。真真假假?遮遮掩掩!拿到一个压缩包，一..."
+      },
+      "catalog": [
+        {
+          "title": "赛事",
+          "doc_id": "nvc6kuird93vbqz9"
+        },
+        {
+          "title": "SHCTF",
+          "doc_id": "nvc6kuird93vbqz9"
+        }
+      ],
+      "realName": "SHCTF2024 Week1 WP",
+      "relativePath": "\\赛事\\SHCTF\\SHCTF2024 Week1 WP.md",
+      "docPath": "docs\\docs\\赛事\\SHCTF"
+    },
+    {
+      "id": 196256754,
+      "doc_id": "yq7ec57f6xb3v507",
+      "updated": 1732684457000,
+      "properties": {
+        "title": "PPC",
+        "urlname": "yq7ec57f6xb3v507",
+        "date": "2024-11-27 13:14:13",
+        "updated": "2024-11-27 13:14:17",
+        "description": "队伍：Aura&amp;JumpingPPCBaseCTF 崩啦 - 导言如题，下载好附件后在 README.txt 中发现 flag。BaseCTF 崩啦 II - 过期了?要求找到 Damien Schroeder 队伍的所有逾期提交题目，并按照时间顺序用英文逗号连接，取 md5 值。看了一下，所..."
+      },
+      "catalog": [
+        {
+          "title": "赛事",
+          "doc_id": "yq7ec57f6xb3v507"
+        },
+        {
+          "title": "BaseCTF 2024",
+          "doc_id": "yq7ec57f6xb3v507"
+        }
+      ],
+      "realName": "PPC",
+      "relativePath": "\\赛事\\BaseCTF 2024\\PPC.md",
+      "docPath": "docs\\docs\\赛事\\BaseCTF 2024"
+    },
+    {
+      "id": 196256752,
+      "doc_id": "id5hbcouk8p5u7pm",
+      "updated": 1732684457000,
+      "properties": {
+        "title": "Misc",
+        "urlname": "id5hbcouk8p5u7pm",
+        "date": "2024-11-27 13:14:13",
+        "updated": "2024-11-27 13:14:17",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/47252163/1728654312642-1e63dee1-db85-4919-9b91-aec726b39d66.png",
+        "description": "打卡小能手发送指定消息获得 flag。 whatmusic拿到一个压缩包，里面两个文件，其中有一个 password 文件没被加密。010 看一下，发现是字节翻转的 PNG，丢入 cyberchef reverse 一下即可。还原出来的 PNG 还需要 CRC 宽高爆破，然后得到密码的图片，还..."
+      },
+      "catalog": [
+        {
+          "title": "赛事",
+          "doc_id": "id5hbcouk8p5u7pm"
+        },
+        {
+          "title": "YLCTF",
+          "doc_id": "id5hbcouk8p5u7pm"
+        },
+        {
+          "title": "Round1",
+          "doc_id": "id5hbcouk8p5u7pm"
+        }
+      ],
+      "realName": "Misc",
+      "relativePath": "\\赛事\\YLCTF\\Round1\\Misc.md",
+      "docPath": "docs\\docs\\赛事\\YLCTF\\Round1"
+    },
+    {
+      "id": 196256758,
+      "doc_id": "ulgriqb47u41ies3",
+      "updated": 1732684457000,
+      "properties": {
+        "title": "BaseCTF Week 2 WP",
+        "urlname": "ulgriqb47u41ies3",
+        "date": "2024-11-27 13:14:13",
+        "updated": "2024-11-27 13:14:17",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/47252163/1724854183791-d03587a3-0b6d-41cc-986d-e8dfefa9f1f9.png",
+        "description": "队伍：Aura&amp;JumpingMiscez_cryptoqMfZzunurNTuAdfZxZfZxZrUx2v6x2i0C2u2ngrLyZbKzx0=拿到一串怪怪的字符串，试了一会，发现是换表 Base64。怎么换的？其实就是把表中的大小写字母换了一下顺序。A-Za-z0-9+/=     ..."
+      },
+      "catalog": [
+        {
+          "title": "赛事",
+          "doc_id": "ulgriqb47u41ies3"
+        },
+        {
+          "title": "BaseCTF 2024",
+          "doc_id": "ulgriqb47u41ies3"
+        }
+      ],
+      "realName": "BaseCTF Week 2 WP",
+      "relativePath": "\\赛事\\BaseCTF 2024\\BaseCTF Week 2 WP.md",
+      "docPath": "docs\\docs\\赛事\\BaseCTF 2024"
+    },
+    {
+      "id": 196256751,
+      "doc_id": "neigmk2ugv3b1zbf",
+      "updated": 1732684457000,
+      "properties": {
+        "title": "Web",
+        "urlname": "neigmk2ugv3b1zbf",
+        "date": "2024-11-27 13:14:13",
+        "updated": "2024-11-27 13:14:17",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/47252163/1728721290440-7a442e8b-7b33-40ca-acdd-b0e8ff4180fc.png",
+        "description": "Disal空，F12 看一下源码，找到这个东西。访问一下，看到一张机器人图片。猜测是 robots.txt，访问一下。继续访问 f1ag.php。﻿php show_source(__FILE__); include(\"flag_is_so_beautiful.php\"); $a=@$_P..."
+      },
+      "catalog": [
+        {
+          "title": "赛事",
+          "doc_id": "neigmk2ugv3b1zbf"
+        },
+        {
+          "title": "YLCTF",
+          "doc_id": "neigmk2ugv3b1zbf"
+        },
+        {
+          "title": "Round1",
+          "doc_id": "neigmk2ugv3b1zbf"
+        }
+      ],
+      "realName": "Web",
+      "relativePath": "\\赛事\\YLCTF\\Round1\\Web.md",
+      "docPath": "docs\\docs\\赛事\\YLCTF\\Round1"
+    },
+    {
+      "id": 196256749,
+      "doc_id": "zkv4gdg0vgobmiym",
+      "updated": 1732684456000,
+      "properties": {
+        "title": "Reverse",
+        "urlname": "zkv4gdg0vgobmiym",
+        "date": "2024-11-27 13:14:13",
+        "updated": "2024-11-27 13:14:16",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/47252163/1728719436834-f09e4731-1ddd-4be5-acf1-a0eb35797f3b.png",
+        "description": "xor用 DIE 看了一下，发现有个 UPX 壳，直接 upd -d 脱壳。逆一下，就是个简单的异或。nc 连接直接复制密文可能带有不可见字符，异或出来的 flag 可能是错的，需要用 pwntools 交互一下（后面好像修复了，变成输入 16 进制数了，这里就用 cyberchef 了）ez..."
+      },
+      "catalog": [
+        {
+          "title": "赛事",
+          "doc_id": "zkv4gdg0vgobmiym"
+        },
+        {
+          "title": "YLCTF",
+          "doc_id": "zkv4gdg0vgobmiym"
+        },
+        {
+          "title": "Round1",
+          "doc_id": "zkv4gdg0vgobmiym"
+        }
+      ],
+      "realName": "Reverse",
+      "relativePath": "\\赛事\\YLCTF\\Round1\\Reverse.md",
+      "docPath": "docs\\docs\\赛事\\YLCTF\\Round1"
+    },
+    {
+      "id": 196256746,
+      "doc_id": "gddh1tgras4s0iin",
+      "updated": 1732684456000,
+      "properties": {
+        "title": "Crypto",
+        "urlname": "gddh1tgras4s0iin",
+        "date": "2024-11-27 13:14:12",
+        "updated": "2024-11-27 13:14:16",
+        "cover": "https://cdn.nlark.com/yuque/__latex/53c667986b9bf4357eb892f3b37f2b69.svg",
+        "description": "signrsa import libnum from Crypto.Util.number import * fp = open(\"/flag\",\"r\") flag = fp.read() fp.close() m = bytes_to_long(bytes(flag.encode())) n..."
+      },
+      "catalog": [
+        {
+          "title": "赛事",
+          "doc_id": "gddh1tgras4s0iin"
+        },
+        {
+          "title": "YLCTF",
+          "doc_id": "gddh1tgras4s0iin"
+        },
+        {
+          "title": "Round1",
+          "doc_id": "gddh1tgras4s0iin"
+        }
+      ],
+      "realName": "Crypto",
+      "relativePath": "\\赛事\\YLCTF\\Round1\\Crypto.md",
+      "docPath": "docs\\docs\\赛事\\YLCTF\\Round1"
+    },
+    {
+      "id": 196256747,
+      "doc_id": "ocs55totw3cnhxrs",
+      "updated": 1732684456000,
+      "properties": {
+        "title": "YLCTF Round1 WP",
+        "urlname": "ocs55totw3cnhxrs",
+        "date": "2024-11-27 13:14:12",
+        "updated": "2024-11-27 13:14:16",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/47252163/1728654312642-1e63dee1-db85-4919-9b91-aec726b39d66.png",
+        "description": "选手：AuraMISC打卡小能手发送指定消息获得 flag。whatmusic拿到一个压缩包，里面两个文件，其中有一个 password 文件没被加密。010 看一下，发现是字节翻转的 PNG，丢入 cyberchef reverse 一下即可。还原出来的 PNG 还需要 CRC 宽高爆破，然..."
+      },
+      "catalog": [
+        {
+          "title": "赛事",
+          "doc_id": "ocs55totw3cnhxrs"
+        },
+        {
+          "title": "YLCTF",
+          "doc_id": "ocs55totw3cnhxrs"
+        },
+        {
+          "title": "Round1",
+          "doc_id": "ocs55totw3cnhxrs"
+        }
+      ],
+      "realName": "YLCTF Round1 WP",
+      "relativePath": "\\赛事\\YLCTF\\Round1\\YLCTF Round1 WP.md",
+      "docPath": "docs\\docs\\赛事\\YLCTF\\Round1"
+    },
+    {
+      "id": 196256744,
+      "doc_id": "uyqhz87ib7icq0o5",
+      "updated": 1732684456000,
+      "properties": {
+        "title": "Pwn",
+        "urlname": "uyqhz87ib7icq0o5",
+        "date": "2024-11-27 13:14:12",
+        "updated": "2024-11-27 13:14:16",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/47252163/1729409138894-ac82ec6d-a213-4a68-a47a-e6ee9064698a.png",
+        "description": "shortshell打 5 个字节指令跳转即可。#!/usr/bin/env python # coding=utf-8 from pwn import * context.log_level = 'debug' p = remote('challenge.yuanloo.com',46794..."
+      },
+      "catalog": [
+        {
+          "title": "赛事",
+          "doc_id": "uyqhz87ib7icq0o5"
+        },
+        {
+          "title": "YLCTF",
+          "doc_id": "uyqhz87ib7icq0o5"
+        },
+        {
+          "title": "Round2",
+          "doc_id": "uyqhz87ib7icq0o5"
+        }
+      ],
+      "realName": "Pwn",
+      "relativePath": "\\赛事\\YLCTF\\Round2\\Pwn.md",
+      "docPath": "docs\\docs\\赛事\\YLCTF\\Round2"
+    },
+    {
+      "id": 196256743,
+      "doc_id": "gw4ir5c3ir3l1uyh",
+      "updated": 1732684456000,
+      "properties": {
+        "title": "Misc",
+        "urlname": "gw4ir5c3ir3l1uyh",
+        "date": "2024-11-27 13:14:12",
+        "updated": "2024-11-27 13:14:16",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/47252163/1729406015509-672968c7-52e9-452f-b131-85b03a6bc1ac.png",
+        "description": "Trace给了一个图片，010 发现图片后面有一大堆 base64，解一下。解出来是个 rar 压缩包，发现有密码。ARCHPR 爆不了，因为这是 rar5，只能使用 john 搭配 hashcat 进行爆破。爆出来以后解出来一张怪怪的图片。不过很好修，用 windows 自带的画图工具，自由..."
+      },
+      "catalog": [
+        {
+          "title": "赛事",
+          "doc_id": "gw4ir5c3ir3l1uyh"
+        },
+        {
+          "title": "YLCTF",
+          "doc_id": "gw4ir5c3ir3l1uyh"
+        },
+        {
+          "title": "Round2",
+          "doc_id": "gw4ir5c3ir3l1uyh"
+        }
+      ],
+      "realName": "Misc",
+      "relativePath": "\\赛事\\YLCTF\\Round2\\Misc.md",
+      "docPath": "docs\\docs\\赛事\\YLCTF\\Round2"
+    },
+    {
+      "id": 196256745,
+      "doc_id": "fcwzf3h99oqcebsu",
+      "updated": 1732684456000,
+      "properties": {
+        "title": "Pwn",
+        "urlname": "fcwzf3h99oqcebsu",
+        "date": "2024-11-27 13:14:12",
+        "updated": "2024-11-27 13:14:16",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/47252163/1728730137655-800b701f-02c0-4454-baef-f989b3631371.png",
+        "description": "ezstackstack 函数中存在栈溢出漏洞。有个 vuln 函数，里面可以执行命令，但是过滤了一些字符。我们可以通过 /???/?at 代替 cat，然后用通配符读出根目录下所有文件，即 /???/?at *总体思路就是栈溢出然后跳到 vuln 函数，执行命令，很简单。#!/usr/bin..."
+      },
+      "catalog": [
+        {
+          "title": "赛事",
+          "doc_id": "fcwzf3h99oqcebsu"
+        },
+        {
+          "title": "YLCTF",
+          "doc_id": "fcwzf3h99oqcebsu"
+        },
+        {
+          "title": "Round1",
+          "doc_id": "fcwzf3h99oqcebsu"
+        }
+      ],
+      "realName": "Pwn",
+      "relativePath": "\\赛事\\YLCTF\\Round1\\Pwn.md",
+      "docPath": "docs\\docs\\赛事\\YLCTF\\Round1"
+    },
+    {
+      "id": 196256742,
+      "doc_id": "ivyfamgpmuae09wg",
+      "updated": 1732684456000,
+      "properties": {
+        "title": "Web",
+        "urlname": "ivyfamgpmuae09wg",
+        "date": "2024-11-27 13:14:12",
+        "updated": "2024-11-27 13:14:16",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/47252163/1729402139438-0a99d9d9-fbd7-480b-bb2f-11f0a8c7a54e.png",
+        "description": "Cmnts看源码，解 base64。访问 /get_th1s_f1ag.php。php include 'flag.php'; parse_str($_SERVER['QUERY_STRING']);  if (isset($pass)) {     $key = md5($pass); ..."
+      },
+      "catalog": [
+        {
+          "title": "赛事",
+          "doc_id": "ivyfamgpmuae09wg"
+        },
+        {
+          "title": "YLCTF",
+          "doc_id": "ivyfamgpmuae09wg"
+        },
+        {
+          "title": "Round2",
+          "doc_id": "ivyfamgpmuae09wg"
+        }
+      ],
+      "realName": "Web",
+      "relativePath": "\\赛事\\YLCTF\\Round2\\Web.md",
+      "docPath": "docs\\docs\\赛事\\YLCTF\\Round2"
+    },
+    {
+      "id": 196256741,
+      "doc_id": "syl4ofknbtrdvv5o",
+      "updated": 1732684456000,
+      "properties": {
+        "title": "Reverse",
+        "urlname": "syl4ofknbtrdvv5o",
+        "date": "2024-11-27 13:14:12",
+        "updated": "2024-11-27 13:14:16",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/47252163/1729402570370-94fec497-710b-4c36-9ebb-e7e4eaa85875.png",
+        "description": "ezwasm给了一个 wasm 文件，网上搜个教程给他转成 wat 文件，看不懂。取一下密文，解一下 hex，发现很像 ROT，试几个偏移量直接出了。。。。。然后大小写互换一下就好了。PS: 不记得数字需不需要偏移了，赛后交不了，反正试一下就好了。三点几啦饮茶先就是个小改的 XTEA，delt..."
+      },
+      "catalog": [
+        {
+          "title": "赛事",
+          "doc_id": "syl4ofknbtrdvv5o"
+        },
+        {
+          "title": "YLCTF",
+          "doc_id": "syl4ofknbtrdvv5o"
+        },
+        {
+          "title": "Round2",
+          "doc_id": "syl4ofknbtrdvv5o"
+        }
+      ],
+      "realName": "Reverse",
+      "relativePath": "\\赛事\\YLCTF\\Round2\\Reverse.md",
+      "docPath": "docs\\docs\\赛事\\YLCTF\\Round2"
+    },
+    {
+      "id": 196256740,
+      "doc_id": "ygq3xlxklxgoinpn",
+      "updated": 1732684456000,
+      "properties": {
+        "title": "Crypto",
+        "urlname": "ygq3xlxklxgoinpn",
+        "date": "2024-11-27 13:14:12",
+        "updated": "2024-11-27 13:14:16",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/47252163/1729406556308-218b290c-848e-45d1-85c7-210807a87c4e.png",
+        "description": "ezAES this is a AES,you maybe need full padding. key is YLCTF-CRYPTO iv is YLCTF-IV AES define is    from Crypto.Cipher import AES AES.new(key,2,iv..."
+      },
+      "catalog": [
+        {
+          "title": "赛事",
+          "doc_id": "ygq3xlxklxgoinpn"
+        },
+        {
+          "title": "YLCTF",
+          "doc_id": "ygq3xlxklxgoinpn"
+        },
+        {
+          "title": "Round2",
+          "doc_id": "ygq3xlxklxgoinpn"
+        }
+      ],
+      "realName": "Crypto",
+      "relativePath": "\\赛事\\YLCTF\\Round2\\Crypto.md",
+      "docPath": "docs\\docs\\赛事\\YLCTF\\Round2"
+    },
+    {
+      "id": 196256739,
+      "doc_id": "rswm00gpwncio6co",
+      "updated": 1732684456000,
+      "properties": {
+        "title": "YLCTF Round2 WP",
+        "urlname": "rswm00gpwncio6co",
+        "date": "2024-11-27 13:14:12",
+        "updated": "2024-11-27 13:14:16",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/47252163/1729406556308-218b290c-848e-45d1-85c7-210807a87c4e.png",
+        "description": "选手：AuraCryptoezAES this is a AES,you maybe need full padding. key is YLCTF-CRYPTO iv is YLCTF-IV AES define is    from Crypto.Cipher import AES AES..."
+      },
+      "catalog": [
+        {
+          "title": "赛事",
+          "doc_id": "rswm00gpwncio6co"
+        },
+        {
+          "title": "YLCTF",
+          "doc_id": "rswm00gpwncio6co"
+        },
+        {
+          "title": "Round2",
+          "doc_id": "rswm00gpwncio6co"
+        }
+      ],
+      "realName": "YLCTF Round2 WP",
+      "relativePath": "\\赛事\\YLCTF\\Round2\\YLCTF Round2 WP.md",
+      "docPath": "docs\\docs\\赛事\\YLCTF\\Round2"
+    },
+    {
+      "id": 196256738,
+      "doc_id": "he3n3ols7brmetql",
+      "updated": 1732684456000,
+      "properties": {
+        "title": "Web",
+        "urlname": "he3n3ols7brmetql",
+        "date": "2024-11-27 13:14:12",
+        "updated": "2024-11-27 13:14:16",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/47252163/1729681401201-f0f3eac8-0a1a-4549-9cb6-276cc4baeb55.png",
+        "description": "404看一下 js，找到下一步，访问 /f12g.php。抓个包看看，找到一串 base64，解一下。访问 /ca.php。用 requests 库写个脚本交互即可，要开启 session。import requests import re import math session = requ..."
+      },
+      "catalog": [
+        {
+          "title": "赛事",
+          "doc_id": "he3n3ols7brmetql"
+        },
+        {
+          "title": "YLCTF",
+          "doc_id": "he3n3ols7brmetql"
+        },
+        {
+          "title": "Round3",
+          "doc_id": "he3n3ols7brmetql"
+        }
+      ],
+      "realName": "Web",
+      "relativePath": "\\赛事\\YLCTF\\Round3\\Web.md",
+      "docPath": "docs\\docs\\赛事\\YLCTF\\Round3"
+    },
+    {
+      "id": 196256736,
+      "doc_id": "ypv2g6cvzh6ur57d",
+      "updated": 1732684456000,
+      "properties": {
+        "title": "Crypto",
+        "urlname": "ypv2g6cvzh6ur57d",
+        "date": "2024-11-27 13:14:12",
+        "updated": "2024-11-27 13:14:16",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/47252163/1729681315590-755025ee-8820-4c38-9aac-10a291b4e818.png",
+        "description": "QWQﾟωﾟﾉ= /｀ｍ´）ﾉ ~┻━┻   //*´∇｀*/ ['_']; o=(ﾟｰﾟ)  =_=3; c=(ﾟΘﾟ) =(ﾟｰﾟ)-(ﾟｰﾟ); (ﾟДﾟ) =(ﾟΘﾟ)= (o^_^o)/ (o^_^o);(ﾟДﾟ)={ﾟΘﾟ: '_' ,ﾟωﾟﾉ : ((ﾟωﾟﾉ==3) +'_')..."
+      },
+      "catalog": [
+        {
+          "title": "赛事",
+          "doc_id": "ypv2g6cvzh6ur57d"
+        },
+        {
+          "title": "YLCTF",
+          "doc_id": "ypv2g6cvzh6ur57d"
+        },
+        {
+          "title": "Round3",
+          "doc_id": "ypv2g6cvzh6ur57d"
+        }
+      ],
+      "realName": "Crypto",
+      "relativePath": "\\赛事\\YLCTF\\Round3\\Crypto.md",
+      "docPath": "docs\\docs\\赛事\\YLCTF\\Round3"
+    },
+    {
+      "id": 196256735,
+      "doc_id": "nlaa39y16xg44ors",
+      "updated": 1732684455000,
+      "properties": {
+        "title": "misc03",
+        "urlname": "nlaa39y16xg44ors",
+        "date": "2024-11-27 13:14:11",
+        "updated": "2024-11-27 13:14:15",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/47252163/1730517503429-bfc1d505-f662-4a41-9b26-013396238c31.png",
+        "description": "拿到一张 png，里面有个 zip，用 binwalk 分离，得到一个带密码的压缩包，用 foremost 分，得到一个有 flag.txt 的压缩包，里面是密文。看带密码的压缩包，里面有 3 个 6 字节的 txt，应该是 CRC 爆破，用脚本跑一下。Administrator in mis..."
+      },
+      "catalog": [
+        {
+          "title": "赛事",
+          "doc_id": "nlaa39y16xg44ors"
+        },
+        {
+          "title": "网鼎-朱雀",
+          "doc_id": "nlaa39y16xg44ors"
+        }
+      ],
+      "realName": "misc03",
+      "relativePath": "\\赛事\\网鼎-朱雀\\misc03.md",
+      "docPath": "docs\\docs\\赛事\\网鼎-朱雀"
+    },
+    {
+      "id": 196256737,
+      "doc_id": "udtmhyws59zoftr0",
+      "updated": 1732684455000,
+      "properties": {
+        "title": "Misc",
+        "urlname": "udtmhyws59zoftr0",
+        "date": "2024-11-27 13:14:12",
+        "updated": "2024-11-27 13:14:15",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/47252163/1729682096566-574ad598-b781-4dc2-94ab-e1943f1ce182.png",
+        "description": "Blackdoor唯一正常的题目小明的网站被黑了，你能帮小明分析一下网站后门吗？ Webshell后门的密码（已经做了md5加密）即为答案。 FLAG格式：YLCTF{后门密码}  直接丢入 D 盾扫，扫到后门。打开看一眼，找到后门密码。Tinted给了这张图片，用画图软件打开，去看颜色的 h..."
+      },
+      "catalog": [
+        {
+          "title": "赛事",
+          "doc_id": "udtmhyws59zoftr0"
+        },
+        {
+          "title": "YLCTF",
+          "doc_id": "udtmhyws59zoftr0"
+        },
+        {
+          "title": "Round3",
+          "doc_id": "udtmhyws59zoftr0"
+        }
+      ],
+      "realName": "Misc",
+      "relativePath": "\\赛事\\YLCTF\\Round3\\Misc.md",
+      "docPath": "docs\\docs\\赛事\\YLCTF\\Round3"
+    },
+    {
+      "id": 196256734,
+      "doc_id": "zvxosu5wa72rabfx",
+      "updated": 1732684455000,
+      "properties": {
+        "title": "YLCTF Round3 WP",
+        "urlname": "zvxosu5wa72rabfx",
+        "date": "2024-11-27 13:14:11",
+        "updated": "2024-11-27 13:14:15",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/47252163/1729682096566-574ad598-b781-4dc2-94ab-e1943f1ce182.png",
+        "description": "选手：AuraMiscBlackdoor唯一正常的题目小明的网站被黑了，你能帮小明分析一下网站后门吗？ Webshell后门的密码（已经做了md5加密）即为答案。 FLAG格式：YLCTF{后门密码}  直接丢入 D 盾扫，扫到后门。打开看一眼，找到后门密码。Tinted给了这张图片，用画图软..."
+      },
+      "catalog": [
+        {
+          "title": "赛事",
+          "doc_id": "zvxosu5wa72rabfx"
+        },
+        {
+          "title": "YLCTF",
+          "doc_id": "zvxosu5wa72rabfx"
+        },
+        {
+          "title": "Round3",
+          "doc_id": "zvxosu5wa72rabfx"
+        }
+      ],
+      "realName": "YLCTF Round3 WP",
+      "relativePath": "\\赛事\\YLCTF\\Round3\\YLCTF Round3 WP.md",
+      "docPath": "docs\\docs\\赛事\\YLCTF\\Round3"
+    },
+    {
+      "id": 196256733,
+      "doc_id": "arvuxcieafkpfk9e",
+      "updated": 1732684455000,
+      "properties": {
+        "title": "Reverse",
+        "urlname": "arvuxcieafkpfk9e",
+        "date": "2024-11-27 13:14:11",
+        "updated": "2024-11-27 13:14:15",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/47252163/1729684057893-76c96941-713c-4a52-b540-6ad3081bb244.png",
+        "description": "ezmaze不太一样的迷宫，仔细分析逻辑，只要朝一个方向走就会一直走到底，需要注意这个细节。由于地图很小，手玩就出了。1111100111 1111110111 1110100111 1110001111 1F10111111 1010001111 1011100111 1011101111 ..."
+      },
+      "catalog": [
+        {
+          "title": "赛事",
+          "doc_id": "arvuxcieafkpfk9e"
+        },
+        {
+          "title": "YLCTF",
+          "doc_id": "arvuxcieafkpfk9e"
+        },
+        {
+          "title": "Round3",
+          "doc_id": "arvuxcieafkpfk9e"
+        }
+      ],
+      "realName": "Reverse",
+      "relativePath": "\\赛事\\YLCTF\\Round3\\Reverse.md",
+      "docPath": "docs\\docs\\赛事\\YLCTF\\Round3"
+    },
+    {
+      "id": 196256732,
+      "doc_id": "gpw1nmfvkans45y7",
+      "updated": 1732684455000,
+      "properties": {
+        "title": "misc02",
+        "urlname": "gpw1nmfvkans45y7",
+        "date": "2024-11-27 13:14:11",
+        "updated": "2024-11-27 13:14:15",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/47252163/1730511503373-3eb34244-3eb2-450b-8a83-1e998fa45f8f.png",
+        "description": "拿到一个 jar 包，先用 jd-gui 打开。发现加密部分。用的是 AES，然后 key 是 Y4SuperSecretKey。密文在哪，直接用 jadx-gui 打开 jar 包，然后去交叉引用 newMap 函数。在 Ll1llllI1LIL.class 中找到一堆密文，试几行就出了。"
+      },
+      "catalog": [
+        {
+          "title": "赛事",
+          "doc_id": "gpw1nmfvkans45y7"
+        },
+        {
+          "title": "网鼎-朱雀",
+          "doc_id": "gpw1nmfvkans45y7"
+        }
+      ],
+      "realName": "misc02",
+      "relativePath": "\\赛事\\网鼎-朱雀\\misc02.md",
+      "docPath": "docs\\docs\\赛事\\网鼎-朱雀"
+    },
+    {
+      "id": 196256731,
+      "doc_id": "cyhxna18ws86h16z",
+      "updated": 1732684455000,
+      "properties": {
+        "title": "Pwn",
+        "urlname": "cyhxna18ws86h16z",
+        "date": "2024-11-27 13:14:11",
+        "updated": "2024-11-27 13:14:15",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/47252163/1729681176211-04a2a2ce-b5af-49cb-8a12-785e83154b74.png",
+        "description": "Secret白送，输对指定密码就行。"
+      },
+      "catalog": [
+        {
+          "title": "赛事",
+          "doc_id": "cyhxna18ws86h16z"
+        },
+        {
+          "title": "YLCTF",
+          "doc_id": "cyhxna18ws86h16z"
+        },
+        {
+          "title": "Round3",
+          "doc_id": "cyhxna18ws86h16z"
+        }
+      ],
+      "realName": "Pwn",
+      "relativePath": "\\赛事\\YLCTF\\Round3\\Pwn.md",
+      "docPath": "docs\\docs\\赛事\\YLCTF\\Round3"
+    },
+    {
+      "id": 196256726,
+      "doc_id": "aeghnposrhtqcx8x",
+      "updated": 1732684455000,
+      "properties": {
+        "title": "crypto02",
+        "urlname": "aeghnposrhtqcx8x",
+        "date": "2024-11-27 13:14:11",
+        "updated": "2024-11-27 13:14:15",
+        "cover": "https://cdn.nlark.com/yuque/__latex/efe34e21b2ba82407cefad712c4737e9.svg",
+        "description": "各位朱雀组参赛选手请注意，平台新增“CRYPTO02”赛题提示： 提示信息如下：请根据提示信息进一步完成解题。  （1）RSA模数 n：  0x00b8cb1cca99b6ac41876c18845732a5cbfc875df346ee9002ce608508b5fcf6b60a5ac7722..."
+      },
+      "catalog": [
+        {
+          "title": "赛事",
+          "doc_id": "aeghnposrhtqcx8x"
+        },
+        {
+          "title": "网鼎-朱雀",
+          "doc_id": "aeghnposrhtqcx8x"
+        }
+      ],
+      "realName": "crypto02",
+      "relativePath": "\\赛事\\网鼎-朱雀\\crypto02.md",
+      "docPath": "docs\\docs\\赛事\\网鼎-朱雀"
+    },
+    {
+      "id": 196256727,
+      "doc_id": "kmm66vkcxkx180ws",
+      "updated": 1732684455000,
+      "properties": {
+        "title": "Master of OSINT",
+        "urlname": "kmm66vkcxkx180ws",
+        "date": "2024-11-27 13:14:11",
+        "updated": "2024-11-27 13:14:15",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/47252163/1730625584200-79106411-f2e7-40fd-88d4-1680c552f0f0.png",
+        "description": "为了方便，使用全景图查看工具。360° Panorama Viewer OnlineP1图片中是一片草场，右半部分是一片矮山，首先猜测的就是我国西北地区，但是左半部分远处是一片海，又将我的思路转移到我国的东南沿海地区，但是地形地貌肯定是不符合的，于是就只能想到我国最大的湖——青海湖了，只有这样..."
+      },
+      "catalog": [
+        {
+          "title": "赛事",
+          "doc_id": "kmm66vkcxkx180ws"
+        },
+        {
+          "title": "强网杯",
+          "doc_id": "kmm66vkcxkx180ws"
+        }
+      ],
+      "realName": "Master of OSINT",
+      "relativePath": "\\赛事\\强网杯\\Master of OSINT.md",
+      "docPath": "docs\\docs\\赛事\\强网杯"
+    },
+    {
+      "id": 196256728,
+      "doc_id": "aa67tsgxo16nfuyc",
+      "updated": 1732684455000,
+      "properties": {
+        "title": "强网拟态 Hyperion WriteUp",
+        "urlname": "aa67tsgxo16nfuyc",
+        "date": "2024-11-27 13:14:11",
+        "updated": "2024-11-27 13:14:15",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/47252163/1729391125949-d14fae8a-0a46-4a9a-8f0d-42fb2708991d.png",
+        "description": "Miscezflagwireshark 打开，其中一个流量有个 zip，追踪一下，用 hex 查看，然后丢入 cyberchef 解出来一个 zip，解压后是一个 png 文件，改后缀以后查看图片就是 flag。Find way to read videoGitcode 上可以找到 marco..."
+      },
+      "catalog": [
+        {
+          "title": "赛事",
+          "doc_id": "aa67tsgxo16nfuyc"
+        },
+        {
+          "title": "强网拟态",
+          "doc_id": "aa67tsgxo16nfuyc"
+        }
+      ],
+      "realName": "强网拟态 Hyperion WriteUp",
+      "relativePath": "\\赛事\\强网拟态\\强网拟态 Hyperion WriteUp.md",
+      "docPath": "docs\\docs\\赛事\\强网拟态"
+    },
+    {
+      "id": 196256724,
+      "doc_id": "lzko1n4nsrgvke1i",
+      "updated": 1732684455000,
+      "properties": {
+        "title": "reverse01",
+        "urlname": "lzko1n4nsrgvke1i",
+        "date": "2024-11-27 13:14:11",
+        "updated": "2024-11-27 13:14:15",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/47252163/1730538936230-67fdac15-d9fd-48b8-9734-ea545bc5aacf.png",
+        "description": "IDA 打开，strings 查看字符串，发现类似密文的东西。交叉引用过去，发现没有被引用，可能是程序对自身进行了加密。找到 sub_7FF65FAA3000 函数，在这里下一个断点，然后动调。在汇编界面点击这个函数，依次按 U，P 重新反汇编，得到主要的逻辑。__int64 sub_7FF6..."
+      },
+      "catalog": [
+        {
+          "title": "赛事",
+          "doc_id": "lzko1n4nsrgvke1i"
+        },
+        {
+          "title": "网鼎-朱雀",
+          "doc_id": "lzko1n4nsrgvke1i"
+        }
+      ],
+      "realName": "reverse01",
+      "relativePath": "\\赛事\\网鼎-朱雀\\reverse01.md",
+      "docPath": "docs\\docs\\赛事\\网鼎-朱雀"
+    },
+    {
+      "id": 196256725,
+      "doc_id": "oyweqalwzwhpxa0r",
+      "updated": 1732684455000,
+      "properties": {
+        "title": "Master of DFIR - Phishing",
+        "urlname": "oyweqalwzwhpxa0r",
+        "date": "2024-11-27 13:14:11",
+        "updated": "2024-11-27 13:14:15",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/47252163/1730626345109-2add694d-6964-4b4a-8189-fd1e7ae147d1.png",
+        "description": "1[✅] bob@flycode.cn b9cae449f959162f0297fa43b458bd66  2[✅] 关于组织参加第八届“强网杯”全国网络安全挑战赛的通知（11月2日至3日举行线上赛）.zip f436b02020fa59f3f71e0b6dcac6c7d3  3[✅] .ms..."
+      },
+      "catalog": [
+        {
+          "title": "赛事",
+          "doc_id": "oyweqalwzwhpxa0r"
+        },
+        {
+          "title": "强网杯",
+          "doc_id": "oyweqalwzwhpxa0r"
+        }
+      ],
+      "realName": "Master of DFIR - Phishing",
+      "relativePath": "\\赛事\\强网杯\\Master of DFIR - Phishing.md",
+      "docPath": "docs\\docs\\赛事\\强网杯"
+    },
+    {
+      "id": 196256722,
+      "doc_id": "zaexyg9l461u6d23",
+      "updated": 1732684454000,
+      "properties": {
+        "title": "misc01",
+        "urlname": "zaexyg9l461u6d23",
+        "date": "2024-11-27 13:14:11",
+        "updated": "2024-11-27 13:14:14",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/47252163/1730540291445-7635469e-690c-49e7-9fac-5950637533ce.png",
+        "description": "附件是一个 01 字符串，尝试 from binary，发现什么都没有。询问了一下 AI，可能是曼彻斯特编码。搜索曼彻斯特编码，找到一篇文章。【计算机网络】快速做题向 一张图搞懂曼彻斯特编码，差分曼彻斯特编码，归零编码，非归零编码_曼彻斯特和差分曼彻斯特编码规则画图-CSDN博客尝试将其视作曼..."
+      },
+      "catalog": [
+        {
+          "title": "赛事",
+          "doc_id": "zaexyg9l461u6d23"
+        },
+        {
+          "title": "网鼎-朱雀",
+          "doc_id": "zaexyg9l461u6d23"
+        }
+      ],
+      "realName": "misc01",
+      "relativePath": "\\赛事\\网鼎-朱雀\\misc01.md",
+      "docPath": "docs\\docs\\赛事\\网鼎-朱雀"
+    },
+    {
+      "id": 196256720,
+      "doc_id": "nzal0c6zqdpv5fwc",
+      "updated": 1732684454000,
+      "properties": {
+        "title": "web01",
+        "urlname": "nzal0c6zqdpv5fwc",
+        "date": "2024-11-27 13:14:11",
+        "updated": "2024-11-27 13:14:14",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/47252163/1730543520926-b2aafadc-598b-4988-89ce-af6504848d70.png",
+        "description": "访问 ./dosearch?username[]=admin。得到其list的uuid：0c9008c9-ec00-4532-bfa1-b917ab8e7ddb。代码审计http.conf，发现可以通过do的形式打请求转发，请求走私可以自定义请求头 Auth，从而绕过guest直接在url中请..."
+      },
+      "catalog": [
+        {
+          "title": "赛事",
+          "doc_id": "nzal0c6zqdpv5fwc"
+        },
+        {
+          "title": "网鼎-朱雀",
+          "doc_id": "nzal0c6zqdpv5fwc"
+        }
+      ],
+      "realName": "web01",
+      "relativePath": "\\赛事\\网鼎-朱雀\\web01.md",
+      "docPath": "docs\\docs\\赛事\\网鼎-朱雀"
+    },
+    {
+      "id": 196256719,
+      "doc_id": "atgnegvahb36vwlu",
+      "updated": 1732684454000,
+      "properties": {
+        "title": "强网杯",
+        "urlname": "atgnegvahb36vwlu",
+        "date": "2024-11-27 13:14:10",
+        "updated": "2024-11-27 13:14:14"
+      },
+      "catalog": [
+        {
+          "title": "赛事",
+          "doc_id": "atgnegvahb36vwlu"
+        }
+      ],
+      "realName": "强网杯",
+      "relativePath": "\\赛事\\强网杯.md",
+      "docPath": "docs\\docs\\赛事"
+    }
+  ],
+  "catalog": [
+    {
+      "type": "TITLE",
+      "title": "渗透",
+      "uuid": "JJzk0Pi_aOvK_kpS",
+      "url": "",
+      "prev_uuid": "",
+      "sibling_uuid": "rrcNBqOFjpEYID3c",
+      "child_uuid": "6Gb2ird4Iw0PXFF6",
+      "parent_uuid": "",
+      "doc_id": "",
+      "level": 0,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "渗透",
+      "uuid": "6Gb2ird4Iw0PXFF6",
+      "url": "dxx02ydos2ar6frg",
+      "prev_uuid": "JJzk0Pi_aOvK_kpS",
+      "sibling_uuid": "OHJETWpV3rpde7iz",
+      "child_uuid": "",
+      "parent_uuid": "JJzk0Pi_aOvK_kpS",
+      "doc_id": 196261090,
+      "level": 1,
+      "id": 196261090,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "记录一次QQ钓鱼网站渗透 2024.10.26",
+      "uuid": "OHJETWpV3rpde7iz",
+      "url": "myachz7d72dluode",
+      "prev_uuid": "6Gb2ird4Iw0PXFF6",
+      "sibling_uuid": "rPykm_a1LulCZMf0",
+      "child_uuid": "",
+      "parent_uuid": "JJzk0Pi_aOvK_kpS",
+      "doc_id": 196260941,
+      "level": 1,
+      "id": 196260941,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "THM DEBUG靶场 WP",
+      "uuid": "rPykm_a1LulCZMf0",
+      "url": "mfuebyis4cobaw4d",
+      "prev_uuid": "OHJETWpV3rpde7iz",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "JJzk0Pi_aOvK_kpS",
+      "doc_id": 196260911,
+      "level": 1,
+      "id": 196260911,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
+      "title": "赛事",
+      "uuid": "rrcNBqOFjpEYID3c",
+      "url": "",
+      "prev_uuid": "JJzk0Pi_aOvK_kpS",
+      "sibling_uuid": "",
+      "child_uuid": "tiwt76Vep28C4-6-",
+      "parent_uuid": "",
+      "doc_id": "",
+      "level": 0,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "赛事",
+      "uuid": "tiwt76Vep28C4-6-",
+      "url": "tinkyhxnui00ygci",
+      "prev_uuid": "rrcNBqOFjpEYID3c",
+      "sibling_uuid": "W6eXLqpAyhK9JxbB",
+      "child_uuid": "",
+      "parent_uuid": "rrcNBqOFjpEYID3c",
+      "doc_id": 196260479,
+      "level": 1,
+      "id": 196260479,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
+      "title": "SCUCTF 2024 新生赛",
+      "uuid": "W6eXLqpAyhK9JxbB",
+      "url": "",
+      "prev_uuid": "tiwt76Vep28C4-6-",
+      "sibling_uuid": "ISSGa92o7twU2_-W",
+      "child_uuid": "B1pSRV0-xNHnqN0_",
+      "parent_uuid": "rrcNBqOFjpEYID3c",
+      "doc_id": "",
+      "level": 1,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Misc",
+      "uuid": "B1pSRV0-xNHnqN0_",
+      "url": "apu3vfpgvm8d5wfz",
+      "prev_uuid": "W6eXLqpAyhK9JxbB",
+      "sibling_uuid": "XXa0FolOoT21aXMP",
+      "child_uuid": "",
+      "parent_uuid": "W6eXLqpAyhK9JxbB",
+      "doc_id": 196264591,
+      "level": 2,
+      "id": 196264591,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Web",
+      "uuid": "XXa0FolOoT21aXMP",
+      "url": "txuqd1tbgkvrpgvw",
+      "prev_uuid": "B1pSRV0-xNHnqN0_",
+      "sibling_uuid": "wQ8m0WTcSvIY3O7X",
+      "child_uuid": "",
+      "parent_uuid": "W6eXLqpAyhK9JxbB",
+      "doc_id": 196264669,
+      "level": 2,
+      "id": 196264669,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Reverse",
+      "uuid": "wQ8m0WTcSvIY3O7X",
+      "url": "ad8l68ghd3ggfhqx",
+      "prev_uuid": "XXa0FolOoT21aXMP",
+      "sibling_uuid": "yv4tX0en4nVg_oRI",
+      "child_uuid": "",
+      "parent_uuid": "W6eXLqpAyhK9JxbB",
+      "doc_id": 196264682,
+      "level": 2,
+      "id": 196264682,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Crypto",
+      "uuid": "yv4tX0en4nVg_oRI",
+      "url": "bx7uqu9b6vwz3t5m",
+      "prev_uuid": "wQ8m0WTcSvIY3O7X",
+      "sibling_uuid": "O1ivPQS8Zz867jIO",
+      "child_uuid": "",
+      "parent_uuid": "W6eXLqpAyhK9JxbB",
+      "doc_id": 196264742,
+      "level": 2,
+      "id": 196264742,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Pwn",
+      "uuid": "O1ivPQS8Zz867jIO",
+      "url": "sah0c78pqftx5gc4",
+      "prev_uuid": "yv4tX0en4nVg_oRI",
+      "sibling_uuid": "Vo4fZTOqdw7gTBgn",
+      "child_uuid": "",
+      "parent_uuid": "W6eXLqpAyhK9JxbB",
+      "doc_id": 196264724,
+      "level": 2,
+      "id": 196264724,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "BlockChain",
+      "uuid": "Vo4fZTOqdw7gTBgn",
+      "url": "mpstvkc9cs0e59f8",
+      "prev_uuid": "O1ivPQS8Zz867jIO",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "W6eXLqpAyhK9JxbB",
+      "doc_id": 196264705,
+      "level": 2,
+      "id": 196264705,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "强网杯",
+      "uuid": "ISSGa92o7twU2_-W",
+      "url": "atgnegvahb36vwlu",
+      "prev_uuid": "W6eXLqpAyhK9JxbB",
+      "sibling_uuid": "V63UbFBKaG9f3x2c",
+      "child_uuid": "_EVf7jk7LxKycSeq",
+      "parent_uuid": "rrcNBqOFjpEYID3c",
+      "doc_id": 196256719,
+      "level": 1,
+      "id": 196256719,
+      "open_window": 1,
+      "visible": 0
+    },
+    {
+      "type": "DOC",
+      "title": "Master of DFIR - Phishing",
+      "uuid": "_EVf7jk7LxKycSeq",
+      "url": "oyweqalwzwhpxa0r",
+      "prev_uuid": "ISSGa92o7twU2_-W",
+      "sibling_uuid": "zi9KgJUAgpapg0cb",
+      "child_uuid": "",
+      "parent_uuid": "ISSGa92o7twU2_-W",
+      "doc_id": 196256725,
+      "level": 2,
+      "id": 196256725,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Master of OSINT",
+      "uuid": "zi9KgJUAgpapg0cb",
+      "url": "kmm66vkcxkx180ws",
+      "prev_uuid": "_EVf7jk7LxKycSeq",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "ISSGa92o7twU2_-W",
+      "doc_id": 196256727,
+      "level": 2,
+      "id": 196256727,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
+      "title": "强网拟态",
+      "uuid": "V63UbFBKaG9f3x2c",
+      "url": "",
+      "prev_uuid": "ISSGa92o7twU2_-W",
+      "sibling_uuid": "SwLy5WNL1sqRjhzU",
+      "child_uuid": "yn8p8mBUpGnpHgx9",
+      "parent_uuid": "rrcNBqOFjpEYID3c",
+      "doc_id": "",
+      "level": 1,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "强网拟态 Hyperion WriteUp",
+      "uuid": "yn8p8mBUpGnpHgx9",
+      "url": "aa67tsgxo16nfuyc",
+      "prev_uuid": "V63UbFBKaG9f3x2c",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "V63UbFBKaG9f3x2c",
+      "doc_id": 196256728,
+      "level": 2,
+      "id": 196256728,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
+      "title": "网鼎-朱雀",
+      "uuid": "SwLy5WNL1sqRjhzU",
+      "url": "",
+      "prev_uuid": "V63UbFBKaG9f3x2c",
+      "sibling_uuid": "65NDLweJsqhYeNL_",
+      "child_uuid": "M8-SuOeQyielYk66",
+      "parent_uuid": "rrcNBqOFjpEYID3c",
+      "doc_id": "",
+      "level": 1,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "web01",
+      "uuid": "M8-SuOeQyielYk66",
+      "url": "nzal0c6zqdpv5fwc",
+      "prev_uuid": "SwLy5WNL1sqRjhzU",
+      "sibling_uuid": "pvi4QZModdv-68sH",
+      "child_uuid": "",
+      "parent_uuid": "SwLy5WNL1sqRjhzU",
+      "doc_id": 196256720,
+      "level": 2,
+      "id": 196256720,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "misc01",
+      "uuid": "pvi4QZModdv-68sH",
+      "url": "zaexyg9l461u6d23",
+      "prev_uuid": "M8-SuOeQyielYk66",
+      "sibling_uuid": "oY6zKzVNQMqde1zP",
+      "child_uuid": "",
+      "parent_uuid": "SwLy5WNL1sqRjhzU",
+      "doc_id": 196256722,
+      "level": 2,
+      "id": 196256722,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "reverse01",
+      "uuid": "oY6zKzVNQMqde1zP",
+      "url": "lzko1n4nsrgvke1i",
+      "prev_uuid": "pvi4QZModdv-68sH",
+      "sibling_uuid": "o0B7yvWPqeVmlbl-",
+      "child_uuid": "",
+      "parent_uuid": "SwLy5WNL1sqRjhzU",
+      "doc_id": 196256724,
+      "level": 2,
+      "id": 196256724,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "crypto02",
+      "uuid": "o0B7yvWPqeVmlbl-",
+      "url": "aeghnposrhtqcx8x",
+      "prev_uuid": "oY6zKzVNQMqde1zP",
+      "sibling_uuid": "0_hRJRMA7eE06wiD",
+      "child_uuid": "",
+      "parent_uuid": "SwLy5WNL1sqRjhzU",
+      "doc_id": 196256726,
+      "level": 2,
+      "id": 196256726,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "misc03",
+      "uuid": "0_hRJRMA7eE06wiD",
+      "url": "nlaa39y16xg44ors",
+      "prev_uuid": "o0B7yvWPqeVmlbl-",
+      "sibling_uuid": "5B-KPEwsjqZEyz9q",
+      "child_uuid": "",
+      "parent_uuid": "SwLy5WNL1sqRjhzU",
+      "doc_id": 196256735,
+      "level": 2,
+      "id": 196256735,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "misc02",
+      "uuid": "5B-KPEwsjqZEyz9q",
+      "url": "gpw1nmfvkans45y7",
+      "prev_uuid": "0_hRJRMA7eE06wiD",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "SwLy5WNL1sqRjhzU",
+      "doc_id": 196256732,
+      "level": 2,
+      "id": 196256732,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
+      "title": "YLCTF",
+      "uuid": "65NDLweJsqhYeNL_",
+      "url": "",
+      "prev_uuid": "SwLy5WNL1sqRjhzU",
+      "sibling_uuid": "SulnkunXBuGAXuXF",
+      "child_uuid": "wxxBY6DsaSLsMn3P",
+      "parent_uuid": "rrcNBqOFjpEYID3c",
+      "doc_id": "",
+      "level": 1,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
+      "title": "Round1",
+      "uuid": "wxxBY6DsaSLsMn3P",
+      "url": "",
+      "prev_uuid": "65NDLweJsqhYeNL_",
+      "sibling_uuid": "A_hPlLw0JINEWcAw",
+      "child_uuid": "GDmNPFj55qpU7IkQ",
+      "parent_uuid": "65NDLweJsqhYeNL_",
+      "doc_id": "",
+      "level": 2,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "YLCTF Round1 WP",
+      "uuid": "GDmNPFj55qpU7IkQ",
+      "url": "ocs55totw3cnhxrs",
+      "prev_uuid": "wxxBY6DsaSLsMn3P",
+      "sibling_uuid": "v-2rVGzzpsVwnjQM",
+      "child_uuid": "",
+      "parent_uuid": "wxxBY6DsaSLsMn3P",
+      "doc_id": 196256747,
+      "level": 3,
+      "id": 196256747,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Pwn",
+      "uuid": "v-2rVGzzpsVwnjQM",
+      "url": "fcwzf3h99oqcebsu",
+      "prev_uuid": "GDmNPFj55qpU7IkQ",
+      "sibling_uuid": "twUqajzfoEpVYvnH",
+      "child_uuid": "",
+      "parent_uuid": "wxxBY6DsaSLsMn3P",
+      "doc_id": 196256745,
+      "level": 3,
+      "id": 196256745,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Crypto",
+      "uuid": "twUqajzfoEpVYvnH",
+      "url": "gddh1tgras4s0iin",
+      "prev_uuid": "v-2rVGzzpsVwnjQM",
+      "sibling_uuid": "8OBjHrJFvRaIyaKS",
+      "child_uuid": "",
+      "parent_uuid": "wxxBY6DsaSLsMn3P",
+      "doc_id": 196256746,
+      "level": 3,
+      "id": 196256746,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Reverse",
+      "uuid": "8OBjHrJFvRaIyaKS",
+      "url": "zkv4gdg0vgobmiym",
+      "prev_uuid": "twUqajzfoEpVYvnH",
+      "sibling_uuid": "BZ0x1gZMogw2ij68",
+      "child_uuid": "",
+      "parent_uuid": "wxxBY6DsaSLsMn3P",
+      "doc_id": 196256749,
+      "level": 3,
+      "id": 196256749,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Web",
+      "uuid": "BZ0x1gZMogw2ij68",
+      "url": "neigmk2ugv3b1zbf",
+      "prev_uuid": "8OBjHrJFvRaIyaKS",
+      "sibling_uuid": "r3_q-_cljIhV1wYW",
+      "child_uuid": "",
+      "parent_uuid": "wxxBY6DsaSLsMn3P",
+      "doc_id": 196256751,
+      "level": 3,
+      "id": 196256751,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Misc",
+      "uuid": "r3_q-_cljIhV1wYW",
+      "url": "id5hbcouk8p5u7pm",
+      "prev_uuid": "BZ0x1gZMogw2ij68",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "wxxBY6DsaSLsMn3P",
+      "doc_id": 196256752,
+      "level": 3,
+      "id": 196256752,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
+      "title": "Round2",
+      "uuid": "A_hPlLw0JINEWcAw",
+      "url": "",
+      "prev_uuid": "wxxBY6DsaSLsMn3P",
+      "sibling_uuid": "AT9H9Q17ugDTb_T0",
+      "child_uuid": "6P3g6txN3ASqp1qb",
+      "parent_uuid": "65NDLweJsqhYeNL_",
+      "doc_id": "",
+      "level": 2,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "YLCTF Round2 WP",
+      "uuid": "6P3g6txN3ASqp1qb",
+      "url": "rswm00gpwncio6co",
+      "prev_uuid": "A_hPlLw0JINEWcAw",
+      "sibling_uuid": "Rb4CspEcKMisidmd",
+      "child_uuid": "",
+      "parent_uuid": "A_hPlLw0JINEWcAw",
+      "doc_id": 196256739,
+      "level": 3,
+      "id": 196256739,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Crypto",
+      "uuid": "Rb4CspEcKMisidmd",
+      "url": "ygq3xlxklxgoinpn",
+      "prev_uuid": "6P3g6txN3ASqp1qb",
+      "sibling_uuid": "f3hV97V3tfAqaVnS",
+      "child_uuid": "",
+      "parent_uuid": "A_hPlLw0JINEWcAw",
+      "doc_id": 196256740,
+      "level": 3,
+      "id": 196256740,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Reverse",
+      "uuid": "f3hV97V3tfAqaVnS",
+      "url": "syl4ofknbtrdvv5o",
+      "prev_uuid": "Rb4CspEcKMisidmd",
+      "sibling_uuid": "-5wU-wr4wyACK1M4",
+      "child_uuid": "",
+      "parent_uuid": "A_hPlLw0JINEWcAw",
+      "doc_id": 196256741,
+      "level": 3,
+      "id": 196256741,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Web",
+      "uuid": "-5wU-wr4wyACK1M4",
+      "url": "ivyfamgpmuae09wg",
+      "prev_uuid": "f3hV97V3tfAqaVnS",
+      "sibling_uuid": "0C-qawJbvpQDLsba",
+      "child_uuid": "",
+      "parent_uuid": "A_hPlLw0JINEWcAw",
+      "doc_id": 196256742,
+      "level": 3,
+      "id": 196256742,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Misc",
+      "uuid": "0C-qawJbvpQDLsba",
+      "url": "gw4ir5c3ir3l1uyh",
+      "prev_uuid": "-5wU-wr4wyACK1M4",
+      "sibling_uuid": "ffnrrGVQSXAhIVi0",
+      "child_uuid": "",
+      "parent_uuid": "A_hPlLw0JINEWcAw",
+      "doc_id": 196256743,
+      "level": 3,
+      "id": 196256743,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Pwn",
+      "uuid": "ffnrrGVQSXAhIVi0",
+      "url": "uyqhz87ib7icq0o5",
+      "prev_uuid": "0C-qawJbvpQDLsba",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "A_hPlLw0JINEWcAw",
+      "doc_id": 196256744,
+      "level": 3,
+      "id": 196256744,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
+      "title": "Round3",
+      "uuid": "AT9H9Q17ugDTb_T0",
+      "url": "",
+      "prev_uuid": "A_hPlLw0JINEWcAw",
+      "sibling_uuid": "",
+      "child_uuid": "3cLQm0x1kLAYVzRv",
+      "parent_uuid": "65NDLweJsqhYeNL_",
+      "doc_id": "",
+      "level": 2,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "YLCTF Round3 WP",
+      "uuid": "3cLQm0x1kLAYVzRv",
+      "url": "zvxosu5wa72rabfx",
+      "prev_uuid": "AT9H9Q17ugDTb_T0",
+      "sibling_uuid": "GQk8DIxCvjTgqQmz",
+      "child_uuid": "",
+      "parent_uuid": "AT9H9Q17ugDTb_T0",
+      "doc_id": 196256734,
+      "level": 3,
+      "id": 196256734,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Pwn",
+      "uuid": "GQk8DIxCvjTgqQmz",
+      "url": "cyhxna18ws86h16z",
+      "prev_uuid": "3cLQm0x1kLAYVzRv",
+      "sibling_uuid": "opnHX-_JIlzqecW5",
+      "child_uuid": "",
+      "parent_uuid": "AT9H9Q17ugDTb_T0",
+      "doc_id": 196256731,
+      "level": 3,
+      "id": 196256731,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Reverse",
+      "uuid": "opnHX-_JIlzqecW5",
+      "url": "arvuxcieafkpfk9e",
+      "prev_uuid": "GQk8DIxCvjTgqQmz",
+      "sibling_uuid": "8v9RoABUxfVPF1zX",
+      "child_uuid": "",
+      "parent_uuid": "AT9H9Q17ugDTb_T0",
+      "doc_id": 196256733,
+      "level": 3,
+      "id": 196256733,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Misc",
+      "uuid": "8v9RoABUxfVPF1zX",
+      "url": "udtmhyws59zoftr0",
+      "prev_uuid": "opnHX-_JIlzqecW5",
+      "sibling_uuid": "F0odAbI12Hh1XFEb",
+      "child_uuid": "",
+      "parent_uuid": "AT9H9Q17ugDTb_T0",
+      "doc_id": 196256737,
+      "level": 3,
+      "id": 196256737,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Web",
+      "uuid": "F0odAbI12Hh1XFEb",
+      "url": "he3n3ols7brmetql",
+      "prev_uuid": "8v9RoABUxfVPF1zX",
+      "sibling_uuid": "K8CJ-xmbv1vppgLB",
+      "child_uuid": "",
+      "parent_uuid": "AT9H9Q17ugDTb_T0",
+      "doc_id": 196256738,
+      "level": 3,
+      "id": 196256738,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Crypto",
+      "uuid": "K8CJ-xmbv1vppgLB",
+      "url": "ypv2g6cvzh6ur57d",
+      "prev_uuid": "F0odAbI12Hh1XFEb",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "AT9H9Q17ugDTb_T0",
+      "doc_id": 196256736,
+      "level": 3,
+      "id": 196256736,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
+      "title": "BaseCTF 2024",
+      "uuid": "SulnkunXBuGAXuXF",
+      "url": "",
+      "prev_uuid": "65NDLweJsqhYeNL_",
+      "sibling_uuid": "qq4ZEwWqeUYH4DmZ",
+      "child_uuid": "NSa-GghYDyCC3rIk",
+      "parent_uuid": "rrcNBqOFjpEYID3c",
+      "doc_id": "",
+      "level": 1,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "BaseCTF Week 1 WP",
+      "uuid": "NSa-GghYDyCC3rIk",
+      "url": "bru94gpll6v4v7vp",
+      "prev_uuid": "SulnkunXBuGAXuXF",
+      "sibling_uuid": "LVvgqN_6r_2mFhmA",
+      "child_uuid": "",
+      "parent_uuid": "SulnkunXBuGAXuXF",
+      "doc_id": 196256759,
+      "level": 2,
+      "id": 196256759,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "BaseCTF Week 2 WP",
+      "uuid": "LVvgqN_6r_2mFhmA",
+      "url": "ulgriqb47u41ies3",
+      "prev_uuid": "NSa-GghYDyCC3rIk",
+      "sibling_uuid": "VZHoxHglUgz7lg5V",
+      "child_uuid": "",
+      "parent_uuid": "SulnkunXBuGAXuXF",
+      "doc_id": 196256758,
+      "level": 2,
+      "id": 196256758,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "BaseCTF Week 3 WP",
+      "uuid": "VZHoxHglUgz7lg5V",
+      "url": "mfpm3aclfq1c290t",
+      "prev_uuid": "LVvgqN_6r_2mFhmA",
+      "sibling_uuid": "2TwB0PPI9N6BLljy",
+      "child_uuid": "",
+      "parent_uuid": "SulnkunXBuGAXuXF",
+      "doc_id": 196256757,
+      "level": 2,
+      "id": 196256757,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "PPC",
+      "uuid": "2TwB0PPI9N6BLljy",
+      "url": "yq7ec57f6xb3v507",
+      "prev_uuid": "VZHoxHglUgz7lg5V",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "SulnkunXBuGAXuXF",
+      "doc_id": 196256754,
+      "level": 2,
+      "id": 196256754,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
+      "title": "SHCTF",
+      "uuid": "qq4ZEwWqeUYH4DmZ",
+      "url": "",
+      "prev_uuid": "SulnkunXBuGAXuXF",
+      "sibling_uuid": "Z4WEYCIsU4un2FMp",
+      "child_uuid": "-D6Ps4H9Q7FQCCVZ",
+      "parent_uuid": "rrcNBqOFjpEYID3c",
+      "doc_id": "",
+      "level": 1,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "SHCTF2024 Week1 WP",
+      "uuid": "-D6Ps4H9Q7FQCCVZ",
+      "url": "nvc6kuird93vbqz9",
+      "prev_uuid": "qq4ZEwWqeUYH4DmZ",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "qq4ZEwWqeUYH4DmZ",
+      "doc_id": 196256761,
+      "level": 2,
+      "id": 196256761,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "数信杯 WriteUp",
+      "uuid": "Z4WEYCIsU4un2FMp",
+      "url": "ka3otfqewh266kpu",
+      "prev_uuid": "qq4ZEwWqeUYH4DmZ",
+      "sibling_uuid": "c7SmRyfQg_yZVjvK",
+      "child_uuid": "",
+      "parent_uuid": "rrcNBqOFjpEYID3c",
+      "doc_id": 196256760,
+      "level": 1,
+      "id": 196256760,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "NepCTF 2024 WP",
+      "uuid": "c7SmRyfQg_yZVjvK",
+      "url": "sige3pgxkmfod3it",
+      "prev_uuid": "Z4WEYCIsU4un2FMp",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "rrcNBqOFjpEYID3c",
+      "doc_id": 196256753,
+      "level": 1,
+      "id": 196256753,
+      "open_window": 1,
+      "visible": 1
+    }
+  ]
+}
